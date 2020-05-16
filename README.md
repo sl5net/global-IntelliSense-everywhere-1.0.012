@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿# global-IntelliSense-everywhere 
  
 English: Automates context-sensitive writing and action.
@@ -100,3 +101,8 @@ Credits:
 - jeeswg
 - fridemarDrPache
 - and many more
+=======
+# global-IntelliSense-everywhere-1.0.012
+
+alpha of changed version gi-1.0.012 from 14.01.2019 of global-IntelliSense-everywhere. Because bugfixing of other versions takes to long at the moment (sorry)
+>>>>>>> 50f2c597c50a2728c8df0a548b5ffddde9778cc7
